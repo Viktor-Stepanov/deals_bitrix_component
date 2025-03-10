@@ -2,6 +2,8 @@
 /*
 
 # Исключить из игнорирования конкретные файлы и папки
+!deals.php
+!README.md
 !/api/
 !/api/dealslist.deals.list.get.php
 !/local/
