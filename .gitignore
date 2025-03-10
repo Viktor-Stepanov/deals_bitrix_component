@@ -1,0 +1,12 @@
+# Игнорировать всё
+/*
+
+# Исключить из игнорирования конкретные файлы и папки
+!/api/
+!/api/dealslist.deals.list.get.php
+!/local/
+!/local/components/
+!/local/components/dealslist/
+
+# Исключить из игнорирования .gitignore (чтобы сам файл не игнорировался)
+!.gitignore
